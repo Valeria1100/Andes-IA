@@ -35,7 +35,3 @@ Librerías: `numpy`, `pandas`, `scipy`, `matplotlib`.
 - La versión B reduce el cómputo medio en la ventana principal, pero la ventaja no se reproduce en la ventana de validación.
 - Con el tráfico ×2 bastan **3 GPU** para cumplir el SLO (P(L > 230 ms) ≤ 3 %).
 - La regla de alertas recomendada es **«D1 y D2»**.
-
-## Nota
-
-El informe completo, el memorando ejecutivo y la bitácora de decisiones se entregan por separado en PDF.
